@@ -74,11 +74,9 @@ temple.html
 
 ## OUTPUT
 
-![alt text](195592909Arunachalam-temple.jpg)
-![alt text](63481e8b4aa28_1665670795.jpg)
-![alt text](Screenshot 2025-12-10 154715.png)
+![alt text](place/placeapp/static/63481e8b4aa28_1665670795.jpg)
 
-
-
+![alt text](place/placeapp/static/195592909Arunachalam-temple.jpg)
+![alt text](<place/placeapp/static/Screenshot 2025-12-10 154715.png>)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
