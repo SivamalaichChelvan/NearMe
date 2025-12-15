@@ -25,7 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-'''
+```
 home.html
 <!DOCTYPE html>
 <html lang="en">
@@ -70,7 +70,7 @@ temple.html
     <p>The Annamalaiyar Temple of Tiruvannamalai stands as one of the grandest and most revered Shiva temples in India, radiating centuries of devotion, architecture, and cultural heritage. Spread across a vast 10‑hectare complex, the temple rises with four towering gopurams, the tallest reaching an impressive height that dominates the skyline of the town. Dedicated to Lord Shiva as Annamalaiyar and Goddess Unnamulai Amman, the temple symbolizes the element of fire, one of the sacred Pancha Bhootas. Its stone corridors echo with ancient chants, while intricately carved pillars narrate stories of dynasties that nurtured this spiritual marvel. The temple’s origins trace back to the Chola period, with later contributions from the Vijayanagara kings, each adding layers of beauty and grandeur. Pilgrims flock here throughout the year, but the energy peaks during Pournami and the Karthigai Deepam festival, when millions gather to witness the lighting of the massive flame atop Arunachala Hill. The temple tank, Brahma Teertham, adds a serene charm to the complex, reflecting the gopurams in its still waters. Walking through the temple feels like stepping into a living museum of Tamil culture, where rituals, music, and architecture blend seamlessly. The sanctum radiates a powerful spiritual presence that devotees describe as transformative and deeply calming. Every corner of the temple carries the weight of history, devotion, and divine symbolism. Whether one visits for worship, architecture, or the sheer spiritual atmosphere, the Annamalaiyar Temple leaves an unforgettable impression that lingers long after the visit ends.</p>
 </body>
 </html>
-'''
+```
 
 ## OUTPUT
 
